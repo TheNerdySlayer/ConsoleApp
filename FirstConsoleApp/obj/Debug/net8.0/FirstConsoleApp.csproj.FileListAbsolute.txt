@@ -1,0 +1,14 @@
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.exe
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.deps.json
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\refint\FirstConsoleApp.dll
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\Lasse\OneDrive\Studie Datamatiker\C# and .Net - Beginning 2021 Edition (Downloads)\Chapter02 - TryItOut\FirstConsoleApp\FirstConsoleApp\obj\Debug\net8.0\ref\FirstConsoleApp.dll
